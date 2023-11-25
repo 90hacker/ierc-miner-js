@@ -43,7 +43,7 @@ yarn install
 ```shell
 yarn cli wallet -create
 Or
-yarn cli wallet -set <privateKey>
+yarn cli wallet --set <privateKey>
 ```
 
 Note: Newly created wallets require a transfer of funds
